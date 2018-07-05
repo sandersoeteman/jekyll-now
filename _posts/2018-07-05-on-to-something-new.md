@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On to something new
+title: Op naar iets nieuws
 ---
 
 Er is een tijd van oogsten en een tijd van zaaien, van convergeren en van divergeren. Het is weer de hoogste tijd om te gaan zaaien. Mijn doel is om de komende tijd veel mensen te spreken, me te verdiepen in nieuwe ontwikkelingen in business en IT en om in-en-om ons nieuwe huis te gaan klussen. Dit blog gaat dienen als een soort reisverslag.
