@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Sander Soeteman woont in Okkenbroek, houdt sinds kort van tuineren, is geobsedeerd door Brazilian Jiu-Jitsu en is verliefd op Patricia en Fedor.
+Sander Soeteman woont in Okkenbroek, houdt sinds kort van tuinieren, is geobsedeerd door Brazilian Jiu-Jitsu en is verliefd op Patricia en Fedor.
 
 ### Contact me
 
