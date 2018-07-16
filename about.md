@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Sander Soeteman woont in Okkenbroek, houdt sinds kort van tuineren, is geobsedeerd door Brazilian Jiu-Jitsu en is verliefd op Patricia en Fedor.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[sander@auger.nl](mailto:sander@auger.nl)  
+[06 30 40 30 58](tel:+31630403058)
